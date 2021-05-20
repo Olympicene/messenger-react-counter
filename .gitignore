@@ -1,3 +1,7 @@
+#custom
+/database/*
+reactions.json
+
 # Logs
 logs
 *.log

@@ -1,0 +1,19 @@
+{
+  "name": "messenger-react-counter",
+  "version": "1.0.0",
+  "description": "Count the number and type of reactions from a Facebook messenger archive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olympicene/messenger-react-counter.git"
+  },
+  "author": "Kevin Cordero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olympicene/messenger-react-counter/issues"
+  },
+  "homepage": "https://github.com/Olympicene/messenger-react-counter#readme"
+}
